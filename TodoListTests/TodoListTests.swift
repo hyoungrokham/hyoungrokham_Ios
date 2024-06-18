@@ -1,10 +1,3 @@
-//
-//  TodoListTests.swift
-//  TodoListTests
-//
-//  Created by 유의진 on 6/10/24.
-//
-
 import XCTest
 @testable import TodoList
 

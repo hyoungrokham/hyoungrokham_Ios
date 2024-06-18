@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  TodoList
-//
-//  Created by 유의진 on 6/10/24.
-//
-
 import UIKit
 import CoreData
 
